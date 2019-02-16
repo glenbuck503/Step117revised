@@ -1,0 +1,7 @@
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 117\Step 117\bin\Debug\Step 117.exe.config
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 117\Step 117\bin\Debug\Step 117.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 117\Step 117\bin\Debug\Step 117.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 117\Step 117\obj\Debug\Step 117.csprojAssemblyReference.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 117\Step 117\obj\Debug\Step 117.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 117\Step 117\obj\Debug\Step 117.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step 117\Step 117\obj\Debug\Step 117.pdb
